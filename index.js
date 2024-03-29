@@ -31,7 +31,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         content: {
             /* Location of file where it is hosted */
             location: {
-                url: "https://media.githubusercontent.com/media/PsiFiInc/brand/main/PsiFi Brand Guide.pdf",
+                url: "https://media.githubusercontent.com/media/PsiFiInc/brand/main/PsiFi_Brand_Guide.pdf",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
